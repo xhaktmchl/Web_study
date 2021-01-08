@@ -19,3 +19,18 @@
 
 ***검색 엔진 최적화(SEO)***
 : 검색시 사이트 상단에 노출되게 함
+
+### 도메인(domain)이란?
+:ip는 사람이 이해하고 기억하기 어렵기 때문에 이를 위해서 각 ip에 이름을 부여할 수 있게 했는데, 이것을 도메인이라고 한다.
+
+opentutorials.org -> 115.68.24.88
+naver.com -> 220.95.233.172
+daum.net -> 114.108.157.19
+![도메인과 서버](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/121/298.png)
+
+
+- 무료 도메인 사이트 프리놈 https://www.freenom.com
+- 프리놈에서 도메인 구매 후 
+- netlify 도메인 설정에서 도메인 추가하고 ip주소 얻음 https://app.netlify.com/
+- 프리놈에서 도메인 설정에서 url이름이랑 ip주소 설정 후 기다림
+- netlify에서 도메인 확인 가능
