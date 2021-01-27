@@ -12,6 +12,9 @@
 netlify 이용 https://app.netlify.com/
 
 ### 사이트 링크 
+- Teachable Machine 2.0 공식 홈페이지
+https://teachablemachine.withgoogle.com/
+
 - teachble 사이트 제작한 모델 성능 확인 https://teachablemachine.withgoogle.com/models/G3EIzCS7G/
 
 - 다운로드로 제작한 웹사이트 
